@@ -1,3 +1,5 @@
+// THIS IS THE CHANGE PROFILE PIC FORM
+
 import { useState, useEffect, useRef, useCallback } from "react";
 
 import Head from "next/head";
